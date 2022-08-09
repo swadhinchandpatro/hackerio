@@ -1,0 +1,17 @@
+
+#nprogress .bar {
+  background-color: brown !important;
+  height: 4px !important;
+}
+
+.nav a:hover {
+  border-radius: 0px;
+}
+
+.form-group {
+  margin: 0.5em auto;
+}
+
+.form-group:first-child {
+  margin-top: 0;
+}
